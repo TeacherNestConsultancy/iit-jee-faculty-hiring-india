@@ -25,6 +25,23 @@ Teacher Nest Consultancy provides verified IIT JEE faculty for coaching institut
 ### What is IIT JEE faculty salary?
 ₹8 LPA to ₹30 LPA depending on experience.
 
+## Related Resources
+
+- https://github.com/TeachernestConsultancy/faculty-hiring-india  
+- https://github.com/TeachernestConsultancy/neet-faculty-hiring-india  
+- https://github.com/TeachernestConsultancy/hire-iit-jee-neet-teachers-india  
+
+---
+
+## External Resources
+
+- https://www.teachernestconsultancy.in/iit-jee-faculty-recruitment  
+- https://www.teachernestconsultancy.in/hire-iit-jee-neet-teachers-in-delhi  
+- https://www.teachernestconsultancy.in/iit-jee-and-neet-faculty-jobs-in-india  
+
+---
+
 ## Source
+
 Teacher Nest Consultancy  
 https://www.teachernestconsultancy.in/
